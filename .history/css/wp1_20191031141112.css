@@ -18,11 +18,11 @@ body {
   padding-bottom: 23px;
 }
 
-.navbar-light .navbar-nav .active>.nav-link {
+.navbar-light .navbar-nav .active > .nav-link {
   padding-left: 212px;
 }
 
-.navbar-light .navbar-nav .bg-light>li {
+.navbar-light .navbar-nav .bg-light > li {
   color: #fff;
 }
 
@@ -30,7 +30,7 @@ body {
   color: #fff;
 }
 
-.navbar-light .navbar-nav .active>.nav-link {
+.navbar-light .navbar-nav .active > .nav-link {
   color: #fff;
 }
 
@@ -81,7 +81,7 @@ h7 {
   padding-left: 170px;
 }
 
-.comment-top>p {
+.comment-top > p {
   color: #7f8c8c;
   font-size: 14px;
   display: inline-block;
@@ -89,7 +89,7 @@ h7 {
   padding-left: 13px;
 }
 
-.comment-top>h3 {
+.comment-top > h3 {
   color: #f52418;
   font-size: 14px;
   display: inline-block;
@@ -97,10 +97,11 @@ h7 {
   position: relative;
 }
 
-.comment-top>h4 {
+.comment-top > h4 {
   font-size: 16px;
   color: #7f8c8c;
   font-weight: bold;
+
   padding-left: 14px;
   display: inline-block;
   position: relative;
@@ -110,6 +111,7 @@ h7 {
   background-color: #f8f8f8;
   margin-left: 40px;
   padding-left: 40px;
+
   border-radius: 5px;
   box-shadow: 0px 5px 0px #e5e6e6;
 }
@@ -124,7 +126,7 @@ h7 {
   margin-top: 20px;
 }
 
-.comment-inside>p {
+.comment-inside > p {
   color: #7f8c8c;
   font-size: 14px;
   padding-left: 10px;
@@ -173,17 +175,14 @@ h7 {
   color: #526da3;
   padding-left: 10px;
 }
-
 .fa-twitter-square {
   font-size: 30px;
   color: #73bfe6;
 }
-
 .fa-google-plus-square {
   font-size: 30px;
   color: #e2534b;
 }
-
 .fa-linkedin {
   font-size: 30px;
   color: #527aa3;
@@ -284,7 +283,7 @@ li {
   height: 100px;
 }
 
-.yorumadedi>p {
+.yorumadedi > p {
   color: #7f8c8c;
   font-size: 20px;
 }
@@ -323,7 +322,7 @@ h4.sagbaslik {
 
 }
 
-.services>li {
+.services > li {
   color: #e2534b;
   padding-top: 11px;
   font-size: 14px;
@@ -336,7 +335,7 @@ h4.sagbaslik {
   display: inline-grid;
 }
 
-.recentposts>li {
+.recentposts > li {
   color: #e2534b;
   padding-top: 5px;
   font-weight: 600;
@@ -355,18 +354,15 @@ h4.sagbaslik {
   font-size: 16px;
   padding-left: 10px;
 }
-
-.recentposts>p {
+.recentposts > p {
   color: #7f8c8c;
   padding-left: 15px;
   font-size: 12px;
 }
-
 .archives {
   height: 150px;
 }
-
-.arsivler>li {
+.arsivler > li {
   color: #e2534b;
   padding-top: 11px;
   font-size: 14px;
@@ -382,11 +378,11 @@ h4.sagbaslik {
   height: 300px;
   background-color: #76c7c0;
   background-position: top;
-  background-repeat: repeat-x;
-  background-image: url(../images/sus2.png);
+background-repeat: repeat-x;
+background-image: url(../images/sus2.png);
 }
 
-.posticerik>p {
+.posticerik > p {
   color: #959f9f;
   font-size: 14px;
   font-weight: 400;
@@ -415,7 +411,7 @@ h4.sagbaslik {
   border-radius: 5px;
 }
 
-.postbilgi>p {
+.postbilgi > p {
   color: #7f8c8c;
   font-size: 14px;
   padding-left: 30px;
@@ -425,7 +421,7 @@ span.name {
   color: #e2534b;
 }
 
-.company>li {
+.company > li {
   color: #fff;
   padding-top: 5px;
   font-size: 15px;
@@ -456,7 +452,7 @@ span.name {
   padding-top: 17px;
 }
 
-.yorumformu>p {
+.yorumformu > p {
   margin-top: 40px;
   color: #7f8c8c;
   font-size: 18px;
@@ -515,7 +511,7 @@ p.formtext {
   border-radius: 5px;
 }
 
-.footerleft>h2 {
+.footerleft > h2 {
   font-size: 25px;
   color: #fff;
   font-weight: 400;
@@ -523,14 +519,14 @@ p.formtext {
   padding-bottom: 30px;
 }
 
-.footerleft>h3 {
+.footerleft > h3 {
   font-size: 30px;
   color: #fff;
   font-weight: 800;
   display: inline;
 }
 
-.footerleft>h4 {
+.footerleft > h4 {
   font-size: 20px;
   color: #fff;
   font-weight: 600;
@@ -543,7 +539,7 @@ p.formtext {
   padding-top: 47px;
 }
 
-.footerleft>p {
+.footerleft > p {
   color: #fff;
   font-size: 13px;
   font-weight: 400;
@@ -581,7 +577,7 @@ p.footer-paragraph-p {
 
 }
 
-.footer-right>h2 {
+.footer-right > h2 {
   font-size: 15px;
   font-style: italic;
   color: #fff;
@@ -589,7 +585,7 @@ p.footer-paragraph-p {
   display: inline;
 }
 
-.footer-right>h3 {
+.footer-right > h3 {
   font-size: 20px;
   color: #fff;
   font-weight: 800;
@@ -728,19 +724,11 @@ p.footer-paragraph-p {
   cursor: pointer;
 }
 
-.taglar .tag-1:hover,
-.tag-2:hover,
-.tag-3:hover,
-.tag-4:hover,
-.tag-5:hover,
-.tag-6:hover,
-.tag-7:hover,
-.tag-8:hover,
-.tag-9:hover {
+.taglar .tag-1:hover, .tag-2:hover, .tag-3:hover, .tag-4:hover, .tag-5:hover, .tag-6:hover, .tag-7:hover, .tag-8:hover, .tag-9:hover  {
   background-color: #e2534b;
 }
 
-.taglar>h4 {
+.taglar > h4 {
   padding-bottom: 20px;
 }
 
@@ -764,7 +752,7 @@ p.footer-paragraph-p {
   padding-top: 250px;
 }
 
-.slider-inside>h4 {
+.slider-inside > h4 {
   color: #b0b8b8;
   font-size: 25px;
   font-weight: 600;
@@ -798,9 +786,11 @@ p.footer-paragraph-p {
 }
 
 .right-1 {
-  float: right;
-  cursor: pointer;
+float: right;
+cursor: pointer;
 }
+
+
 
 .social-2 {
 
@@ -836,7 +826,12 @@ p.footer-paragraph-p {
 .footer-bottom {
   background-color: #6ab3ac;
   bottom: 0px;
+
+
+
 }
+
+
 
 .footer-bottom p {
   color: white;
@@ -845,17 +840,21 @@ p.footer-paragraph-p {
   padding-top: 22px;
   padding-bottom: 20px;
   display: inline-block;
+
+
 }
 
 .social-icons {
   padding-top: 22px;
   padding-bottom: 20px;
   float: right;
+
+
 }
 
 .facebook-footer {
-  padding-right: 10px;
-  cursor: pointer;
+ padding-right: 10px;
+ cursor: pointer;
 }
 
 .twitter-footer {
@@ -869,12 +868,13 @@ p.footer-paragraph-p {
 }
 
 .google-footer {
-  padding-right: 10px;
-  cursor: pointer;
+ padding-right: 10px;
+ cursor: pointer;
 }
 
 .owl-carousel .owl-loaded .owl-drag {
   position: relative;
+
 }
 
 .owl-nav {
@@ -883,20 +883,29 @@ p.footer-paragraph-p {
   margin-top: -35px;
   width: 100%;
   color: transparent;
+
+
 }
 
-.owl-carousel .owl-nav button.owl-prev {
+
+
+.owl-carousel .owl-nav button.owl-prev  {
   display: block;
   float: left;
   background-image: url(../images/left.png);
   height: 60px;
   width: 50px;
+
 }
 
-.owl-carousel .owl-nav button.owl-next {
+.owl-carousel .owl-nav button.owl-next  {
   display: block;
   float: right;
   background-image: url(../images/right.png);
+
   height: 60px;
   width: 50px;
+
+
+
 }
